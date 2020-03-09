@@ -46,5 +46,4 @@ end
 
 end
 
-drop = Scraper.new
-drop.get_page
+Scraper.new.print_courses
